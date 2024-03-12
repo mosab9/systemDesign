@@ -23,4 +23,6 @@ Provides an interface for creating families of related or dependent objects with
 
 builder pattern:
 
-prototype pattern:
+prototype pattern: 
+
+the aim is to be able to copy existing object without depending on those given classes.

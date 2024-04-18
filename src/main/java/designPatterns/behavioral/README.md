@@ -1,13 +1,16 @@
 # Behavioral design patterns
 
-strategy pattern
+## strategy pattern
+Enables an algorithm's behavior to be selected at runtime. 
+It defines a family of algorithms put them in a separate class, encapsulates each one, and makes them interchangeable. 
+This pattern allows the algorithm to vary independently from clients that use it.
 
-observer pattern
+## observer pattern
 
-command pattern
+## command pattern
 
-template pattern
+## template pattern
 
-visitor pattern
+## visitor pattern
 
 null object and the iterator patterns

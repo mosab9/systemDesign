@@ -12,3 +12,4 @@ runtime by wrapping them in an object of a decorator class.
 Provides a simplified interface to a complex framework or subsystem of classes, making it easier to use.
 
 ## adapter pattern
+It acts as a bridge between two incompatible interfaces by converting the interface of one class into another interface that a client expects. This pattern allows classes with incompatible interfaces to work together without modifying their source code.
